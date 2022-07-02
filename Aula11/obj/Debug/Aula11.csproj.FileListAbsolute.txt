@@ -1,0 +1,55 @@
+C:\Users\Etec Franco da Rocha\Desktop\Aula11\Aula11\bin\Debug\Aula11.exe.config
+C:\Users\Etec Franco da Rocha\Desktop\Aula11\Aula11\bin\Debug\Aula11.exe
+C:\Users\Etec Franco da Rocha\Desktop\Aula11\Aula11\bin\Debug\Aula11.pdb
+C:\Users\Etec Franco da Rocha\Desktop\Aula11\Aula11\obj\Debug\Aula11.csproj.AssemblyReference.cache
+C:\Users\Etec Franco da Rocha\Desktop\Aula11\Aula11\obj\Debug\Aula11.csproj.SuggestedBindingRedirects.cache
+C:\Users\Etec Franco da Rocha\Desktop\Aula11\Aula11\obj\Debug\Aula11.Form1.resources
+C:\Users\Etec Franco da Rocha\Desktop\Aula11\Aula11\obj\Debug\Aula11.Properties.Resources.resources
+C:\Users\Etec Franco da Rocha\Desktop\Aula11\Aula11\obj\Debug\Aula11.csproj.GenerateResource.cache
+C:\Users\Etec Franco da Rocha\Desktop\Aula11\Aula11\obj\Debug\Aula11.csproj.CoreCompileInputs.cache
+C:\Users\Etec Franco da Rocha\Desktop\Aula11\Aula11\obj\Debug\Aula11.exe
+C:\Users\Etec Franco da Rocha\Desktop\Aula11\Aula11\obj\Debug\Aula11.pdb
+D:\C#\Aulas\Aula11\Aula11\bin\Debug\Aula11.exe.config
+D:\C#\Aulas\Aula11\Aula11\bin\Debug\Aula11.exe
+D:\C#\Aulas\Aula11\Aula11\bin\Debug\Aula11.pdb
+D:\C#\Aulas\Aula11\Aula11\obj\Debug\Aula11.csproj.AssemblyReference.cache
+D:\C#\Aulas\Aula11\Aula11\obj\Debug\Aula11.csproj.SuggestedBindingRedirects.cache
+D:\C#\Aulas\Aula11\Aula11\obj\Debug\Aula11.Form1.resources
+D:\C#\Aulas\Aula11\Aula11\obj\Debug\Aula11.Properties.Resources.resources
+D:\C#\Aulas\Aula11\Aula11\obj\Debug\Aula11.csproj.GenerateResource.cache
+D:\C#\Aulas\Aula11\Aula11\obj\Debug\Aula11.csproj.CoreCompileInputs.cache
+D:\C#\Aulas\Aula11\Aula11\obj\Debug\Aula11.exe
+D:\C#\Aulas\Aula11\Aula11\obj\Debug\Aula11.pdb
+H:\C#\Aulas\Aula11\Aula11\obj\Debug\Aula11.csproj.AssemblyReference.cache
+H:\C#\Aulas\Aula11\Aula11\obj\Debug\Aula11.csproj.SuggestedBindingRedirects.cache
+H:\C#\Aulas\Aula11\Aula11\obj\Debug\Aula11.Form1.resources
+H:\C#\Aulas\Aula11\Aula11\obj\Debug\Aula11.Properties.Resources.resources
+H:\C#\Aulas\Aula11\Aula11\obj\Debug\Aula11.csproj.GenerateResource.cache
+H:\C#\Aulas\Aula11\Aula11\obj\Debug\Aula11.csproj.CoreCompileInputs.cache
+H:\C#\Aulas\Aula11\Aula11\obj\Debug\Aula11.exe
+H:\C#\Aulas\Aula11\Aula11\obj\Debug\Aula11.pdb
+H:\C#\Aulas\Aula11\Aula11\bin\Debug\Aula11.exe.config
+H:\C#\Aulas\Aula11\Aula11\bin\Debug\Aula11.exe
+H:\C#\Aulas\Aula11\Aula11\bin\Debug\Aula11.pdb
+D:\ETEC\C#\Aulas\Aula11\Aula11\obj\Debug\Aula11.csproj.AssemblyReference.cache
+D:\ETEC\C#\Aulas\Aula11\Aula11\obj\Debug\Aula11.csproj.SuggestedBindingRedirects.cache
+D:\ETEC\C#\Aulas\Aula11\Aula11\obj\Debug\Aula11.Form1.resources
+D:\ETEC\C#\Aulas\Aula11\Aula11\obj\Debug\Aula11.Properties.Resources.resources
+D:\ETEC\C#\Aulas\Aula11\Aula11\obj\Debug\Aula11.csproj.GenerateResource.cache
+D:\ETEC\C#\Aulas\Aula11\Aula11\obj\Debug\Aula11.csproj.CoreCompileInputs.cache
+D:\ETEC\C#\Aulas\Aula11\Aula11\obj\Debug\Aula11.exe
+D:\ETEC\C#\Aulas\Aula11\Aula11\obj\Debug\Aula11.pdb
+D:\ETEC\C#\Aulas\Aula11\Aula11\bin\Debug\Aula11.exe.config
+D:\ETEC\C#\Aulas\Aula11\Aula11\bin\Debug\Aula11.exe
+D:\ETEC\C#\Aulas\Aula11\Aula11\bin\Debug\Aula11.pdb
+H:\ETEC\C#\Aulas\Aula11\Aula11\bin\Debug\Aula11.exe.config
+H:\ETEC\C#\Aulas\Aula11\Aula11\bin\Debug\Aula11.exe
+H:\ETEC\C#\Aulas\Aula11\Aula11\bin\Debug\Aula11.pdb
+H:\ETEC\C#\Aulas\Aula11\Aula11\obj\Debug\Aula11.csproj.AssemblyReference.cache
+H:\ETEC\C#\Aulas\Aula11\Aula11\obj\Debug\Aula11.csproj.SuggestedBindingRedirects.cache
+H:\ETEC\C#\Aulas\Aula11\Aula11\obj\Debug\Aula11.Form1.resources
+H:\ETEC\C#\Aulas\Aula11\Aula11\obj\Debug\Aula11.Properties.Resources.resources
+H:\ETEC\C#\Aulas\Aula11\Aula11\obj\Debug\Aula11.csproj.GenerateResource.cache
+H:\ETEC\C#\Aulas\Aula11\Aula11\obj\Debug\Aula11.csproj.CoreCompileInputs.cache
+H:\ETEC\C#\Aulas\Aula11\Aula11\obj\Debug\Aula11.exe
+H:\ETEC\C#\Aulas\Aula11\Aula11\obj\Debug\Aula11.pdb
