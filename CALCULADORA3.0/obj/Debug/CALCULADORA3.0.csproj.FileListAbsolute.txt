@@ -1,0 +1,24 @@
+C:\Users\Etec Franco da Rocha\source\repos\CALCULADORA3.0\CALCULADORA3.0\obj\Debug\CALCULADORA3.0.csproj.AssemblyReference.cache
+C:\Users\Etec Franco da Rocha\source\repos\CALCULADORA3.0\CALCULADORA3.0\obj\Debug\CALCULADORA3.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\Etec Franco da Rocha\source\repos\CALCULADORA3.0\CALCULADORA3.0\obj\Debug\CALCULADORA3.0.csproj.CoreCompileInputs.cache
+C:\Users\Etec Franco da Rocha\source\repos\CALCULADORA3.0\CALCULADORA3.0\bin\Debug\CALCULADORA3.0.exe.config
+C:\Users\Etec Franco da Rocha\source\repos\CALCULADORA3.0\CALCULADORA3.0\bin\Debug\CALCULADORA3.0.exe
+C:\Users\Etec Franco da Rocha\source\repos\CALCULADORA3.0\CALCULADORA3.0\bin\Debug\CALCULADORA3.0.pdb
+C:\Users\Etec Franco da Rocha\source\repos\CALCULADORA3.0\CALCULADORA3.0\obj\Debug\CALCULADORA3.0.exe
+C:\Users\Etec Franco da Rocha\source\repos\CALCULADORA3.0\CALCULADORA3.0\obj\Debug\CALCULADORA3.0.pdb
+H:\C#\Calculadora2.0\CALCULADORA3.0\bin\Debug\CALCULADORA3.0.exe.config
+H:\C#\Calculadora2.0\CALCULADORA3.0\bin\Debug\CALCULADORA3.0.exe
+H:\C#\Calculadora2.0\CALCULADORA3.0\bin\Debug\CALCULADORA3.0.pdb
+H:\C#\Calculadora2.0\CALCULADORA3.0\obj\Debug\CALCULADORA3.0.csproj.AssemblyReference.cache
+H:\C#\Calculadora2.0\CALCULADORA3.0\obj\Debug\CALCULADORA3.0.csproj.SuggestedBindingRedirects.cache
+H:\C#\Calculadora2.0\CALCULADORA3.0\obj\Debug\CALCULADORA3.0.csproj.CoreCompileInputs.cache
+H:\C#\Calculadora2.0\CALCULADORA3.0\obj\Debug\CALCULADORA3.0.exe
+H:\C#\Calculadora2.0\CALCULADORA3.0\obj\Debug\CALCULADORA3.0.pdb
+D:\C#\Calculadora2.0\CALCULADORA3.0\bin\Debug\CALCULADORA3.0.exe.config
+D:\C#\Calculadora2.0\CALCULADORA3.0\bin\Debug\CALCULADORA3.0.exe
+D:\C#\Calculadora2.0\CALCULADORA3.0\bin\Debug\CALCULADORA3.0.pdb
+D:\C#\Calculadora2.0\CALCULADORA3.0\obj\Debug\CALCULADORA3.0.csproj.AssemblyReference.cache
+D:\C#\Calculadora2.0\CALCULADORA3.0\obj\Debug\CALCULADORA3.0.csproj.SuggestedBindingRedirects.cache
+D:\C#\Calculadora2.0\CALCULADORA3.0\obj\Debug\CALCULADORA3.0.csproj.CoreCompileInputs.cache
+D:\C#\Calculadora2.0\CALCULADORA3.0\obj\Debug\CALCULADORA3.0.exe
+D:\C#\Calculadora2.0\CALCULADORA3.0\obj\Debug\CALCULADORA3.0.pdb
