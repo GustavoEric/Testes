@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Quiz Gustavo</string>
+
+    <string name="txtDigiteNome">Digite seu Nome</string>
+
+
+    <string name="txtP1">Pergunta 1</string>
+    <string name="txtPergunta1">Quem foi o compositor da música Tenement Funster?</string>
+    <string name="txtrdbAp1">A) Roger Taylor</string>
+    <string name="txtrdbBp1">B) Freddie Mercury</string>
+    <string name="txtrdbCp1">C) John Deacon </string>
+    <string name="txtrdbDp1">D) Brian May</string>
+    <string name="btnOK">OK</string>
+</resources>

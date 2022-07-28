@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CalculoMEdia</string>
+    <string name="nota1">Digite Nota 1</string>
+    <string name="nota2">Digite Nota 2</string>
+    <string name="nota3">Digite Nota 3</string>
+    <string name="btCalculo">Calcular</string>
+</resources>
