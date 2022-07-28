@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App Parametros Login</string>
+    <string name="txUsuario">Usuário</string>
+    <string name="txSenha">Senha</string>
+    <string name="btnLogar">Login</string>
+    <string name="Sair">Sair</string>
+</resources>

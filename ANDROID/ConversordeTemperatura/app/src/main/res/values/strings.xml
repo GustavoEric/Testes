@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ConversordeTemperatura</string>
+    <string name="txtconverter">Converter:</string>
+    <string name="hit1">Digite a Temperatura</string>
+    <string name="btnCelparaKel">Converter de Celsius para Kelvin</string>
+    <string name="btnKelparaCel">Converter de Kelvin para Celsius</string>
+    <string name="btnCelparaFah">Converter de Celsius para Fahrenheit</string>
+    <string name="btnFahparaCel">Converter de Fahrenheit para Celsius</string>
+    <string name="btnKelparaFah">Converter de Kelvin para Fahrenheit</string>
+    <string name="btnFahparaKel">Converter de Fahrenheit para Kelvin</string>
+
+</resources>
