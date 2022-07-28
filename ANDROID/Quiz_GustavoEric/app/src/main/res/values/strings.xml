@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">Quiz Gustavo</string>
+
+    <string name="txtDigiteNome">Digite seu Nome</string>
+
+
+    <string name="txtP1">Pergunta 1</string>
+    <string name="txtPergunta1">Quem foi o compositor da música Tenement Funster?</string>
+    <string name="txtrdbAp1">A) Roger Taylor</string>
+    <string name="txtrdbBp1">B) Freddie Mercury</string>
+    <string name="txtrdbCp1">C) John Deacon </string>
+    <string name="txtrdbDp1">D) Brian May</string>
+    <string name="btnOK">OK</string>
+    <string name="txtVNome">Nome</string>
+
+    <string name="txtP2">Pergunta 2</string>
+    <string name="txtPergunta2">Qual era o nome da banda Queen antes de se tornar Queen?</string>
+    <string name="txtrdbAp2">A) The Cure</string>
+    <string name="txtrdbBp2">B) Cool Cat</string>
+    <string name="txtrdbCp2">C) Smile</string>
+    <string name="txtrdbDp2">D) The doors</string>
+    <string name="btnOKP2">OK</string>
+    <string name="txtVNomeP2">Nome</string>
+    <string name="txtPontos">Pontos</string>
+
+
+    <string name="txtP3">Pergunta 3</string>
+    <string name="txtPergunta3">Qual era o nome de batismo de Freddie Mercury?</string>
+    <string name="txtrdbAp3">A) Farrokh Bulsara</string>
+    <string name="txtrdbBp3">B) Frederico Mercury</string>
+    <string name="txtrdbCp3">C) Roger Taylor</string>
+    <string name="txtrdbDp3">D) Robert Plant</string>
+    <string name="btnOKP3">OK</string>
+    <string name="txtVNomeP3">Nome</string>
+
+    <string name="txtP4">Pergunta 4</string>
+    <string name="txtPergunta4">Quando Freddie Mercury morreu?</string>
+    <string name="txtrdbAp4">A) 28/11/1999</string>
+    <string name="txtrdbBp4">B) 24/11/1991</string>
+    <string name="txtrdbCp4">C) 10/05/1993</string>
+    <string name="txtrdbDp4">D) 05/02/2019</string>
+    <string name="btnOKP4">OK</string>
+    <string name="txtVNomeP4">Nome</string>
+
+    <string name="txtP5">Pergunta 5</string>
+    <string name="txtPergunta5">Qual o nome do Filme do Queen?</string>
+    <string name="txtrdbAp5">A) Bohemian Rhapsody (T)</string>
+    <string name="txtrdbBp5">B) Queen</string>
+    <string name="txtrdbCp5">C) Killer Queen</string>
+    <string name="txtrdbDp5">D) Another One Bites the Dust</string>
+    <string name="btnOKP5">OK</string>
+    <string name="txtVNomeP5">Nome</string>
+
+    <string name="txtP6">Pergunta 6</string>
+    <string name="txtPergunta6">Qual foi o show considerado por muitos o mais marcante do Queen?</string>
+    <string name="txtrdbAp6">A) Live Aid (T)</string>
+    <string name="txtrdbBp6">B) Rock in Rio</string>
+    <string name="txtrdbCp6">C) lollapalooza</string>
+    <string name="txtrdbDp6">D) Mita</string>
+    <string name="btnOKP6">OK</string>
+    <string name="txtVNomeP6">Nome</string>
+
+    <string name="txtP7">Pergunta 7</string>
+    <string name="txtPergunta7">Qual foi o show considerado por muitos o mais marcante do Queen?</string>
+    <string name="txtrdbAp6">A) Live Aid (T)</string>
+    <string name="txtrdbBp6">B) Rock in Rio</string>
+    <string name="txtrdbCp6">C) lollapalooza</string>
+    <string name="txtrdbDp6">D) Mita</string>
+    <string name="btnOKP6">OK</string>
+    <string name="txtVNomeP6">Nome</string>
+
+    Pergunta 7
+
+    A música Cool Cat é de que albúm do Queen?
+
+    a) Inuendo
+
+    b) Life is Real
+
+    c) Hot Space (T)
+
+    d) A Night at the Opera
+
+
+</resources>

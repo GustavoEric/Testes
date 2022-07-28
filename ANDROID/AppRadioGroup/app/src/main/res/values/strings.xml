@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppRadioGroup</string>
+    <string name="tSalario">Digite seu Salário em R$</string>
+    <string name="tPercentual">Selecione o percentual</string>
+    <string name="r40">40%</string>
+    <string name="r45">45%</string>
+    <string name="r50">50%</string>
+    <string name="tCalcular">Calcular novo Salário</string>
+</resources>

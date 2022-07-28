@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppTestLog</string>
+    <string name="txtbt1">botao 1</string>
+    <string name="txtbt2">botao 2</string>
+    <string name="txtela2">Tela 2</string>
+    <string name="txtVoltar">Voltar</string>
+</resources>
