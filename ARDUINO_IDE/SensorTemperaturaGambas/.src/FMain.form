@@ -1,0 +1,21 @@
+# Gambas Form File 3.0
+
+{ Form Form
+  MoveScaled(0,0,64,64)
+  { btnConectar Button
+    MoveScaled(23,34,16,4)
+    Text = ("Clica ai")
+  }
+  { lblResultado Label
+    MoveScaled(18,20,29,4)
+  }
+  { serialport #SerialPort
+    #MoveScaled(45,31)
+  }
+  { tmConexao #Timer
+    #MoveScaled(3,5)
+  }
+  { LCD LCDLabel
+    MoveScaled(19,26,24,4)
+  }
+}

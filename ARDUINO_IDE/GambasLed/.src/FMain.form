@@ -1,0 +1,31 @@
+# Gambas Form File 3.0
+
+{ Form Form
+  MoveScaled(0,0,64,64)
+  { tmLeitura #Timer
+    #MoveScaled(1,1)
+  }
+  { SerialPort1 #SerialPort
+    #MoveScaled(10,1)
+  }
+  { btnConectar Button
+    MoveScaled(23,17,16,4)
+    Text = ("Conectar")
+  }
+  { btnLed1 Button
+    MoveScaled(23,23,16,4)
+    Text = ("AtivarLED1")
+  }
+  { btnApagar Button
+    MoveScaled(23,38,16,4)
+    Text = ("Apagar")
+  }
+  { btnLed2 Button
+    MoveScaled(23,28,16,4)
+    Text = ("LED2")
+  }
+  { btnLed3 Button
+    MoveScaled(23,33,16,4)
+    Text = ("LED3")
+  }
+}
