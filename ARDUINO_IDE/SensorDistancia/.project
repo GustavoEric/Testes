@@ -1,0 +1,10 @@
+# Gambas Project File 3.0
+Startup=FMain
+Version=0.0.1
+Component=gb.image
+Component=gb.gtk3
+Component=gb.form
+Component=gb.net
+TabSize=2
+Language=en_US
+Packager=1

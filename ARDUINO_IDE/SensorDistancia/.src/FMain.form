@@ -1,0 +1,25 @@
+# Gambas Form File 3.0
+
+{ Form Form
+  MoveScaled(0,0,64,64)
+  { btnConectar Button
+    MoveScaled(15,19,16,4)
+    Text = ("Conectar")
+  }
+  { lblDados Label
+    MoveScaled(18,4,24,12)
+  }
+  { SerialPort1 #SerialPort
+    #MoveScaled(15,38)
+  }
+  { tmLeitura #Timer
+    #MoveScaled(24,38)
+  }
+  { tmLeLabel #Timer
+    #MoveScaled(32,38)
+    Delay = 500
+  }
+  { lblvai Label
+    MoveScaled(24,31,24,4)
+  }
+}

@@ -1,0 +1,78 @@
+' Gambas class file
+
+
+Public Sub Form_Open()
+
+  
+
+End
+
+'copie e cole este código na seção de variáveis 
+Private SComm As SerialPort 
+Const None As Integer = 0
+Private Rx As String 
+
+'copie e cole este código no botão de conexão
+Public Sub btnConectar_Click()
+
+'configura a porta de conexão e sua velocidade
+SComm = New SerialPort As "SComm"
+SComm.PortName = "/dev/ttyUSB0"
+SComm.Speed = 9600
+SComm.Parity = 0
+SComm.DataBits = "8"
+SComm.StopBits = "1"
+SComm.FlowControl = 0
+SComm.Open()
+
+'liga o Timer
+tmLeitura.Enabled = True
+tmLeLabel.Enabled = True
+
+End
+
+'copie e cole esta função abaixo de todo o código-fonte
+'funcao para a leitura da porta
+
+
+'copie e cole este código no timer
+Public Sub tmLeitura_Timer()
+    
+'chama a funcao de leitura da porta serial
+SComm_Read
+
+End
+
+
+
+Public Sub SComm_Read()
+
+Dim distancia As Float 
+
+Read #SComm, Rx, Lof(SComm)
+
+If CStr(Rx) <> "" Then
+    lblDados.Text = CStr(Rx)
+    distancia = CFloat(Trim(lblDados.text))
+    If distancia < 10 Then
+      lblvai.text = "vai"
+    Else  
+      lblvai.text = ""
+    Endif
+Endif
+
+  
+
+End
+
+Public Sub tmLeLabel_Timer()
+
+  'Dim distancia As Float 
+  'Message.Info(lblDados.text)
+  If lblDados.text <> "" Then
+    
+    'distancia = CFloat(Trim(lblDados.text))
+    
+  Endif
+
+End
