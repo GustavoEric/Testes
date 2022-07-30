@@ -1,0 +1,16 @@
+tr:hover{
+	background-color: gray;
+}
+p.p1{
+	text-align: center;
+	background-color: gray;
+
+}
+a:link,a:viseted{
+	background-color: gray;
+	text-decoration: none;
+	display: inline-block;
+}
+a:hover,a:active{
+	background-color: red;
+}
