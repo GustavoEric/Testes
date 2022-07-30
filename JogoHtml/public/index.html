@@ -1,0 +1,73 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>teste Jogo</title>
+        <style>
+            #tela{
+                border: 10px solid #ccc;
+                image-rendering: pixelated;
+                image-rendering: crisp-edges;
+                image-rendering: -moz-crisp-edges;
+                width: 400px;
+                height: 400px;
+            }
+        </style>
+    </head>
+    <body>
+        <script src="https://cdn.socket.io/4.5.0/socket.io.min.js" integrity="sha384-7EyYLQZgWBi67fBtVxw60/OWl1kjsfrPFcaU0pp0nAh+i8FD068QogUvg85Ewy1k" crossorigin="anonymous"></script>
+
+        <canvas id="tela" width="10" height="10"></canvas>
+
+        <script type="module">
+            import criarJogo from './jogo.js'
+            import createKeyboardListener from './keyboard_listener.js'
+            import carregarTela from './carregarTela.js'
+
+
+            const jogo = criarJogo()
+            const keyboardListener = createKeyboardListener()
+
+            const socket = io("http://localhost:3000")
+
+            socket.on('connect',() =>{
+                const jogadorId = socket.id
+                console.log('player connect on client with id: ',jogadorId)
+
+                const tela = document.getElementById('tela')
+                carregarTela(tela,jogo,requestAnimationFrame,jogadorId)
+
+            })
+
+
+            socket.on('setup',(estado) =>{
+                const jogadorId = socket.id
+                jogo.setEstado(estado)
+
+                keyboardListener.inscreverJogadorId(jogadorId)
+                keyboardListener.inscrever(jogo.moveJogador)
+                keyboardListener.inscrever((command)=>{
+                    socket.emit('move-jogador',command)
+                })
+            })
+
+            socket.on('add-jogador', (command) => {
+                console.log('Recebendo ',command.type,'-> ',command.jogadorId)
+                jogo.addJogador(command)
+            })
+            socket.on('remove-jogador', (command) =>{
+                console.log('Recebendo ',command.type,'-> ',command.jogadorId)
+                jogo.removerJogador(command)
+            })
+            socket.on('move-jogador',(command)=>{
+                console.log('Recebendo ',command.type,'-> ',command.jogadorId)
+
+                const jogadorId = socket.id
+
+                if(jogadorId !== command.jogadorId){
+                    jogo.moveJogador(command)
+                }
+            })
+
+        </script>
+    </body>
+</html>
