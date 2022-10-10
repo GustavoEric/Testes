@@ -1,0 +1,103 @@
+C:\Users\Etec Franco da Rocha\Desktop\gol_show\gol_show\bin\Debug\gol_show.exe.config
+C:\Users\Etec Franco da Rocha\Desktop\gol_show\gol_show\bin\Debug\gol_show.exe
+C:\Users\Etec Franco da Rocha\Desktop\gol_show\gol_show\bin\Debug\gol_show.pdb
+C:\Users\Etec Franco da Rocha\Desktop\gol_show\gol_show\obj\Debug\gol_show.csproj.AssemblyReference.cache
+C:\Users\Etec Franco da Rocha\Desktop\gol_show\gol_show\obj\Debug\gol_show.csproj.SuggestedBindingRedirects.cache
+C:\Users\Etec Franco da Rocha\Desktop\gol_show\gol_show\obj\Debug\gol_show.Form1.resources
+C:\Users\Etec Franco da Rocha\Desktop\gol_show\gol_show\obj\Debug\gol_show.Properties.Resources.resources
+C:\Users\Etec Franco da Rocha\Desktop\gol_show\gol_show\obj\Debug\gol_show.csproj.GenerateResource.cache
+C:\Users\Etec Franco da Rocha\Desktop\gol_show\gol_show\obj\Debug\gol_show.csproj.CoreCompileInputs.cache
+C:\Users\Etec Franco da Rocha\Desktop\gol_show\gol_show\obj\Debug\gol_show.exe
+C:\Users\Etec Franco da Rocha\Desktop\gol_show\gol_show\obj\Debug\gol_show.pdb
+E:\ETEC\Arduino\gol_show\bin\Debug\gol_show.exe.config
+E:\ETEC\Arduino\gol_show\bin\Debug\gol_show.exe
+E:\ETEC\Arduino\gol_show\bin\Debug\gol_show.pdb
+E:\ETEC\Arduino\gol_show\obj\Debug\gol_show.csproj.AssemblyReference.cache
+E:\ETEC\Arduino\gol_show\obj\Debug\gol_show.Form1.resources
+E:\ETEC\Arduino\gol_show\obj\Debug\gol_show.Properties.Resources.resources
+E:\ETEC\Arduino\gol_show\obj\Debug\gol_show.csproj.GenerateResource.cache
+E:\ETEC\Arduino\gol_show\obj\Debug\gol_show.csproj.CoreCompileInputs.cache
+E:\ETEC\Arduino\gol_show\obj\Debug\gol_show.exe
+E:\ETEC\Arduino\gol_show\obj\Debug\gol_show.pdb
+E:\ETEC\Arduino\gol_show\obj\Debug\gol_show.Form2.resources
+G:\ETEC\Arduino\gol_show\bin\Debug\gol_show.exe.config
+G:\ETEC\Arduino\gol_show\bin\Debug\gol_show.exe
+G:\ETEC\Arduino\gol_show\bin\Debug\gol_show.pdb
+G:\ETEC\Arduino\gol_show\obj\Debug\gol_show.csproj.AssemblyReference.cache
+G:\ETEC\Arduino\gol_show\obj\Debug\gol_show.csproj.SuggestedBindingRedirects.cache
+G:\ETEC\Arduino\gol_show\obj\Debug\gol_show.Form1.resources
+G:\ETEC\Arduino\gol_show\obj\Debug\gol_show.Form2.resources
+G:\ETEC\Arduino\gol_show\obj\Debug\gol_show.Properties.Resources.resources
+G:\ETEC\Arduino\gol_show\obj\Debug\gol_show.csproj.GenerateResource.cache
+G:\ETEC\Arduino\gol_show\obj\Debug\gol_show.csproj.CoreCompileInputs.cache
+G:\ETEC\Arduino\gol_show\obj\Debug\gol_show.exe
+G:\ETEC\Arduino\gol_show\obj\Debug\gol_show.pdb
+D:\ETEC\Arduino\gol_show\bin\Debug\gol_show.exe.config
+D:\ETEC\Arduino\gol_show\bin\Debug\gol_show.exe
+D:\ETEC\Arduino\gol_show\bin\Debug\gol_show.pdb
+D:\ETEC\Arduino\gol_show\obj\Debug\gol_show.csproj.AssemblyReference.cache
+D:\ETEC\Arduino\gol_show\obj\Debug\gol_show.csproj.SuggestedBindingRedirects.cache
+D:\ETEC\Arduino\gol_show\obj\Debug\gol_show.Form1.resources
+D:\ETEC\Arduino\gol_show\obj\Debug\gol_show.Form2.resources
+D:\ETEC\Arduino\gol_show\obj\Debug\gol_show.Properties.Resources.resources
+D:\ETEC\Arduino\gol_show\obj\Debug\gol_show.csproj.GenerateResource.cache
+D:\ETEC\Arduino\gol_show\obj\Debug\gol_show.csproj.CoreCompileInputs.cache
+D:\ETEC\Arduino\gol_show\obj\Debug\gol_show.exe
+D:\ETEC\Arduino\gol_show\obj\Debug\gol_show.pdb
+C:\Users\Etec Franco da Rocha\Desktop\gol_show\bin\Debug\gol_show.exe.config
+C:\Users\Etec Franco da Rocha\Desktop\gol_show\bin\Debug\gol_show.exe
+C:\Users\Etec Franco da Rocha\Desktop\gol_show\bin\Debug\gol_show.pdb
+C:\Users\Etec Franco da Rocha\Desktop\gol_show\obj\Debug\gol_show.csproj.AssemblyReference.cache
+C:\Users\Etec Franco da Rocha\Desktop\gol_show\obj\Debug\gol_show.csproj.SuggestedBindingRedirects.cache
+C:\Users\Etec Franco da Rocha\Desktop\gol_show\obj\Debug\gol_show.Form1.resources
+C:\Users\Etec Franco da Rocha\Desktop\gol_show\obj\Debug\gol_show.Form2.resources
+C:\Users\Etec Franco da Rocha\Desktop\gol_show\obj\Debug\gol_show.Properties.Resources.resources
+C:\Users\Etec Franco da Rocha\Desktop\gol_show\obj\Debug\gol_show.csproj.GenerateResource.cache
+C:\Users\Etec Franco da Rocha\Desktop\gol_show\obj\Debug\gol_show.csproj.CoreCompileInputs.cache
+C:\Users\Etec Franco da Rocha\Desktop\gol_show\obj\Debug\gol_show.exe
+C:\Users\Etec Franco da Rocha\Desktop\gol_show\obj\Debug\gol_show.pdb
+C:\Users\Etec Franco da Rocha\Desktop\gol_show\bin\Debug\Interop.WMPLib.dll
+C:\Users\Etec Franco da Rocha\Desktop\gol_show\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Etec Franco da Rocha\Desktop\gol_show\obj\Debug\Interop.WMPLib.dll
+C:\Users\Etec Franco da Rocha\Desktop\gol_show\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Etec Franco da Rocha\Desktop\gol_show\obj\Debug\gol_show.csproj.ResolveComReference.cache
+D:\ETEC\Arduino\gol_show\bin\Debug\Interop.WMPLib.dll
+D:\ETEC\Arduino\gol_show\bin\Debug\AxInterop.WMPLib.dll
+D:\ETEC\Arduino\gol_show\obj\Debug\Interop.WMPLib.dll
+D:\ETEC\Arduino\gol_show\obj\Debug\AxInterop.WMPLib.dll
+D:\ETEC\Arduino\gol_show\obj\Debug\gol_show.csproj.ResolveComReference.cache
+G:\ETEC\Arduino\gol_show\bin\Debug\Interop.WMPLib.dll
+G:\ETEC\Arduino\gol_show\bin\Debug\AxInterop.WMPLib.dll
+G:\ETEC\Arduino\gol_show\obj\Debug\Interop.WMPLib.dll
+G:\ETEC\Arduino\gol_show\obj\Debug\AxInterop.WMPLib.dll
+G:\ETEC\Arduino\gol_show\obj\Debug\gol_show.csproj.ResolveComReference.cache
+D:\ETEC\Arduino\gol_show\obj\Debug\gol_show.Form3.resources
+E:\ETEC\Arduino\gol_show\bin\Debug\Interop.WMPLib.dll
+E:\ETEC\Arduino\gol_show\bin\Debug\AxInterop.WMPLib.dll
+E:\ETEC\Arduino\gol_show\obj\Debug\gol_show.csproj.SuggestedBindingRedirects.cache
+E:\ETEC\Arduino\gol_show\obj\Debug\Interop.WMPLib.dll
+E:\ETEC\Arduino\gol_show\obj\Debug\AxInterop.WMPLib.dll
+E:\ETEC\Arduino\gol_show\obj\Debug\gol_show.csproj.ResolveComReference.cache
+E:\ETEC\Arduino\gol_show\obj\Debug\gol_show.Form3.resources
+E:\ETEC\Arduino\gol_show\bin\Debug\System.Data.OleDb.dll
+E:\ETEC\Arduino\gol_show\bin\Debug\System.Data.OleDb.xml
+E:\ETEC\Arduino\gol_show\obj\Debug\gol_show.csproj.CopyComplete
+E:\ETEC\Arduino\gol_show\bin\Debug\x86\sqlite3.dll
+E:\ETEC\Arduino\gol_show\bin\Debug\x64\sqlite3.dll
+E:\ETEC\Arduino\gol_show\bin\Debug\SQLitePCLRaw.core.dll
+E:\ETEC\Arduino\gol_show\bin\Debug\System.Buffers.dll
+E:\ETEC\Arduino\gol_show\bin\Debug\System.Memory.dll
+E:\ETEC\Arduino\gol_show\bin\Debug\System.Numerics.Vectors.dll
+E:\ETEC\Arduino\gol_show\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\ETEC\Arduino\gol_show\bin\Debug\System.Buffers.xml
+E:\ETEC\Arduino\gol_show\bin\Debug\System.Memory.xml
+E:\ETEC\Arduino\gol_show\bin\Debug\System.Numerics.Vectors.xml
+E:\ETEC\Arduino\gol_show\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\ETEC\Arduino\gol_show\bin\Debug\EntityFramework.dll
+E:\ETEC\Arduino\gol_show\bin\Debug\EntityFramework.SqlServer.dll
+E:\ETEC\Arduino\gol_show\bin\Debug\System.Data.SQLite.dll
+E:\ETEC\Arduino\gol_show\bin\Debug\System.Data.SQLite.EF6.dll
+E:\ETEC\Arduino\gol_show\bin\Debug\System.Data.SQLite.Linq.dll
+E:\ETEC\Arduino\gol_show\bin\Debug\EntityFramework.xml
+E:\ETEC\Arduino\gol_show\bin\Debug\EntityFramework.SqlServer.xml
+E:\ETEC\Arduino\gol_show\bin\Debug\System.Data.SQLite.xml
